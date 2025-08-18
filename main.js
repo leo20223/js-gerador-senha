@@ -24,6 +24,10 @@ const numeroSenha = document.querySelectout
 }
 
 const campoSenha = document.querySelector('#campo-senha');
+const chekbox = document.querySelectorAll('.checkbox');
+
+for(i = 0; i < checkbox.lenght; i++)(
+    checkbox[
 
 const letrasMaiusculas = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const letrasMinusculas = 'abcdefghijklmnopqrstuvwxyz';
